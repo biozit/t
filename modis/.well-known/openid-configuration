@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://token.nationalresearchplatform.org/modis",
+    "jwks_uri":"https://token.nationalresearchplatform.org/modis/oauth2/keys"
+}

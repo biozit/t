@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://token.nationalresearchplatform.org/ucsdphysics",
+    "jwks_uri":"https://token.nationalresearchplatform.org/ucsdphysics/oauth2/keys"
+}
