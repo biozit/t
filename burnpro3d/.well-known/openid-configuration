@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://t.nationalresearchplatform.org/burnpro3d",
+    "jwks_uri":"https://t.nationalresearchplatform.org/burnpro3d/oauth2/keys"
+}
