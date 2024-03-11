@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://t.nationalresearchplatform.org/knightlab",
+    "jwks_uri":"https://t.nationalresearchplatform.org/knightlab/oauth2/keys"
+}
