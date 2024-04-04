@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://t.nationalresearchplatform.org/sage",
+    "jwks_uri":"https://t.nationalresearchplatform.org/sage/oauth2/keys"
+}
