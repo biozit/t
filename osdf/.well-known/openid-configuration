@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://t.nationalresearchplatform.org/osdf",
+    "jwks_uri":"https://t.nationalresearchplatform.org/osdf/oauth2/keys"
+}
