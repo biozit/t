@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://t.nationalresearchplatform.org/uhkoa",
+    "jwks_uri":"https://t.nationalresearchplatform.org/uhkoa/oauth2/keys"
+}
