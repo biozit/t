@@ -1,0 +1,4 @@
+{  
+    "issuer":"https://t.nationalresearchplatform.org/fdp1",
+    "jwks_uri":"https://t.nationalresearchplatform.org/fdp1/oauth2/keys"
+}
